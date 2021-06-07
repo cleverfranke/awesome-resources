@@ -21,11 +21,16 @@
 
 ## Libraries
 
-### React
+### Component API's
 
 - [React Hooks: Compound Components](https://kentcdodds.com/blog/compound-components-with-react-hooks)
 - [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/)
 - [Writing Resilient Components](https://overreacted.io/writing-resilient-components/)
+- [Variant Driven Components](https://ped.ro/blog/variant-driven-components)
+
+## Data visualization
+- [Zoomable SVG Maps](https://codesandbox.io/s/zooming-svg-maps-ointi)
+- [Leva: A React GUI to control values](https://github.com/pmndrs/leva)
 
 ## Must-watch Talks
 
