@@ -2,18 +2,6 @@
 
 > A list of resources we find useful and often refer to within the team.
 
-
-## Contents
-
-- [Accessibility](#accessibility)
-- [Libraries](#libraries)
-    - [React](#react)   
-- [Must-watch Talks](#talks)
-- [Performance](#performance)
-- [Tools](#tools)
-- [Design Patterns](#design-patterns)
-- [Web Typography](#typography)
-
 ## Accessibility
 
 - [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
