@@ -35,6 +35,7 @@
 ## Data visualization
 - [Zoomable SVG Maps](https://codesandbox.io/s/zooming-svg-maps-ointi)
 - [Leva: A React GUI to control values](https://github.com/pmndrs/leva)
+- [Server-side rendered responsive charts](https://dev.to/richharris/a-new-technique-for-making-responsive-javascript-free-charts-gmp)
 
 ## Must-watch Talks
 
