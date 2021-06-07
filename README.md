@@ -39,4 +39,4 @@
 
 ## Contribute
 
-Contributions encouraged! Read the [contribution guidelines](contributing.md) first.
+Contributions are encouraged. Have something to add to the list? Awesome! You can find the [contribution guidelines](contributing.md) here.
