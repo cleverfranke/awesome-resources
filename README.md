@@ -30,12 +30,15 @@
 ## Must-watch Talks
 
 ## Performance
+- [Test your site](https://web.dev/measure/)
 
 ## Tools
+- Test server configuration(https://internet.nl/)
 
 ## Web Typography
 
 - [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
+- [Fluid Type Scale Calculator](https://utopia.fyi/type/calculator/)
 
 ## Contribute
 
