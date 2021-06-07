@@ -11,6 +11,7 @@
 - [Must-watch Talks](#talks)
 - [Performance](#performance)
 - [Tools](#tools)
+- [Design Patterns](#design-patterns)
 - [Web Typography](#typography)
 
 ## Accessibility
@@ -42,6 +43,10 @@
 
 ## Tools
 - [Test server configuration](https://internet.nl/)
+
+## Design Patterns
+
+- [Every Layout](https://every-layout.dev/)
 
 ## Web Typography
 
