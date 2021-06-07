@@ -33,7 +33,7 @@
 - [Test your site](https://web.dev/measure/)
 
 ## Tools
-- Test server configuration(https://internet.nl/)
+- [Test server configuration](https://internet.nl/)
 
 ## Web Typography
 
