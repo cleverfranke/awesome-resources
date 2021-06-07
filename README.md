@@ -21,6 +21,9 @@
 
 ## Libraries
 
+### React
+- [A Complete Guide To Incremental Static Regeneration (ISR) With Next.js](https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/)
+
 ### Component API's
 
 - [React Hooks: Compound Components](https://kentcdodds.com/blog/compound-components-with-react-hooks)
