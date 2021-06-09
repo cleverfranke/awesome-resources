@@ -2,6 +2,11 @@
 
 > A list of resources we find useful and often refer to within the team.
 
+## HTML and semantics
+
+- [Semantic Markup Probably Doesn’t Mean What You Think!](https://levelup.gitconnected.com/semantic-markup-probably-doesnt-mean-what-you-think-9e44d2439b18)
+  - Warning: this is a rant, but an insightful one. 
+
 ## Accessibility
 
 - [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
