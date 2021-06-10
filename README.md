@@ -51,6 +51,7 @@
 - [How I set up Glyphhanger on macOS for optimizing and converting font files for the Web](https://www.sarasoueidan.com/blog/glyphhanger/)
 - [Wakamai Fondue (What can my font do?)](https://wakamaifondue.com/beta/): Tells you what typographic features a font has and the CSS to unlock them
 - [Google Webfonts Helpers](https://google-webfonts-helper.herokuapp.com/fonts): Easily generate subset fonts for Google Fonts fonts by picking a Unicode character set like `latin`.
+- [Boiling eggs and fixing the variable font inheritance problem](https://pixelambacht.nl/2019/fixing-variable-font-inheritance/)
 
 ## Contribute
 
