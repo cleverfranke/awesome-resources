@@ -46,6 +46,11 @@
 
 - [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
 - [Fluid Type Scale Calculator](https://utopia.fyi/type/calculator/)
+- [Unicode Range Interchange](https://www.zachleat.com/unicode-range-interchange/): allows you to get Unicode ranges for subsetting your fonts
+- [Glyphhanger](https://github.com/zachleat/glyphhanger): subset your fonts by spidering a page for used characters or passing a Unicode range among other options
+- [How I set up Glyphhanger on macOS for optimizing and converting font files for the Web](https://www.sarasoueidan.com/blog/glyphhanger/)
+- [Wakamai Fondue (What can my font do?)](https://wakamaifondue.com/beta/): Tells you what typographic features a font has and the CSS to unlock them
+- [Google Webfonts Helpers](https://google-webfonts-helper.herokuapp.com/fonts): Easily generate subset fonts for Google Fonts fonts by picking a Unicode character set like `latin`.
 
 ## Contribute
 
